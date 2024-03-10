@@ -1,1 +1,1 @@
-pythonでoutputしたものを保存するリモートリポジトリです
+python勉強用
