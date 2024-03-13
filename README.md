@@ -1,1 +1,1 @@
-python勉強用
+python勉強用リポジトリ
